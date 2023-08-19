@@ -1,4 +1,4 @@
-# Afford-Medical-Technologies-Project
+# Afford Medical Technologies Project Online-Assessment-2023
 Here The given code is for the FullStack Problem Assessment. My friend got shortlisted By submitting this code.
 
 
