@@ -13,7 +13,7 @@ Here The given code is for the FullStack Problem Assessment. My friend got short
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/6e4ee0b8-8caf-4311-8ad8-10bbf78a41ae)
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/c5a651f7-83b6-4948-99bd-e2c195f8bd1a)
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/b077ebce-8dfd-4f60-9a9b-d2af19d376ea)
-https://youtu.be/jNAmVNLxpb8
+#YouTube: https://youtu.be/jNAmVNLxpb8
 
 
 # Problem Statement for Frontend Development Role:
@@ -30,10 +30,10 @@ https://youtu.be/jNAmVNLxpb8
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/80af882f-9e1b-4fd2-9c4d-39776c7a9225)
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/dab421ea-4250-4304-ab36-58e2bb794623)
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/f79e4364-b26d-4170-9105-f434fd823cfa)
-https://youtu.be/dujLYvBrFOM
+#YouTube: https://youtu.be/dujLYvBrFOM
 
 
-Problem Statement for Backend Development Role:
+#Problem Statement for Backend Development Role:
 
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/3334aaf3-a4d5-4524-b2f6-728b12827886)
 ![image](https://github.com/arpit5220/Afford-Medical-Technologies-Project/assets/94009815/8285e331-ac5a-4cae-95a2-88226296e77f)
